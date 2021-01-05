@@ -1,2 +1,2 @@
 # RandomWrappers
-Wrappers for [prorgrams i like
+Wrappers for programs I like
